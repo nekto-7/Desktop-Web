@@ -1,0 +1,145 @@
+3:06:23 Tab1 FinishNav134
+3:06:25 Tab1 StartNav135 #renderer-script #link
+3:06:25 Tab1 FinishNav135
+3:06:29 Widget Closed: MenuHost
+3:06:29 Reload
+3:06:29 Tab1 StartNav136 #reload
+3:06:30 Tab1 StartNav137 #renderer-user #link
+3:06:30 Tab1 FinishNav137
+3:06:30 Tab1 FinishNav136
+3:06:32 Tab1 StartNav138 #renderer-script #auto_subframe
+3:06:32 Tab1 FinishNav138
+3:06:32 Tab1 PageLoad
+3:06:32 Tab1 StartNav139 #renderer-script #auto_subframe
+3:06:32 Tab1 FinishNav139
+3:06:32 Tab1 PageLoad
+3:06:33 Tab1 PageLoad
+3:06:34 Tab1 StartNav140 #renderer-user #auto_subframe
+3:06:36 Tab1 FinishNav140
+3:06:36 Tab1 PageLoad
+3:06:37 Tab1 StartNav141 #renderer-user #link
+3:06:37 Tab1 FinishNav141
+3:06:37 Tab1 StartNav142 #renderer-user #link
+3:06:37 Tab1 FinishNav142
+3:06:44 Tab1 StartNav143 #renderer-script #link
+3:06:44 Tab1 FinishNav143
+3:06:44 Tab1 StartNav144 #renderer-script #link
+3:06:44 Tab1 FinishNav144
+3:06:53 Widget Closed: StatusBubble
+3:07:20 Tab1 StartNav145 #renderer-script #link
+3:07:20 Tab1 FinishNav145
+3:07:23 Tab1 StartNav146 #renderer-script #link
+3:07:23 Tab1 FinishNav146
+3:07:24 Tab1 StartNav147 #renderer-script #link
+3:07:24 Tab1 FinishNav147
+3:07:25 Tab1 StartNav148 #renderer-script #link
+3:07:25 Tab1 FinishNav148
+3:07:25 Tab1 StartNav149 #renderer-script #link
+3:07:25 Tab1 FinishNav149
+3:07:28 Tab1 StartNav150 #renderer-script #link
+3:07:28 Tab1 FinishNav150
+3:07:29 Tab1 StartNav151 #renderer-script #link
+3:07:29 Tab1 FinishNav151
+3:07:29 Tab1 StartNav152 #renderer-script #link
+3:07:29 Tab1 FinishNav152
+3:07:30 Tab1 StartNav153 #renderer-script #link
+3:07:30 Tab1 FinishNav153
+3:08:29 Tab1 StartNav154 #renderer-script #link
+3:08:29 Tab1 FinishNav154
+3:08:29 Tab1 StartNav155 #renderer-script #link
+3:08:29 Tab1 FinishNav155
+3:09:33 Tab1 StartNav156 #renderer-script #link
+3:09:33 Tab1 FinishNav156
+3:09:33 Tab1 StartNav157 #renderer-script #link
+3:09:33 Tab1 FinishNav157
+3:10:22 Tab1 StartNav158 #renderer-script #link
+3:10:22 Tab1 FinishNav158
+3:10:23 Tab1 StartNav159 #renderer-script #link
+3:10:23 Tab1 FinishNav159
+3:10:25 Tab1 StartNav160 #renderer-script #link
+3:10:25 Tab1 FinishNav160
+3:10:25 Tab1 StartNav161 #renderer-script #link
+3:10:25 Tab1 FinishNav161
+3:10:27 Tab1 StartNav162 #renderer-script #link
+3:10:27 Tab1 FinishNav162
+3:10:28 Tab1 StartNav163 #renderer-script #link
+3:10:28 Tab1 FinishNav163
+3:11:34 Tab1 StartNav164 #renderer-script #link
+3:11:34 Tab1 FinishNav164
+3:11:36 Tab1 StartNav165 #renderer-script #link
+3:11:36 Tab1 FinishNav165
+3:11:39 Tab1 StartNav166 #renderer-script #link
+3:11:39 Tab1 FinishNav166
+3:11:40 Tab1 StartNav167 #renderer-script #link
+3:11:40 Tab1 FinishNav167
+3:11:45 Tab1 StartNav168 #renderer-script #link
+3:11:45 Tab1 FinishNav168
+3:11:45 Tab1 StartNav169 #renderer-script #link
+3:11:45 Tab1 FinishNav169
+3:12:57 Tab1 StartNav170 #renderer-script #link
+3:12:57 Tab1 FinishNav170
+3:12:58 Tab1 StartNav171 #renderer-script #link
+3:12:58 Tab1 FinishNav171
+3:15:41 Tab1 StartNav172 #renderer-script #link
+3:15:41 Tab1 FinishNav172
+3:15:42 Tab1 StartNav173 #renderer-script #link
+3:15:42 Tab1 FinishNav173
+3:16:11 Widget Closed: StatusBubble
+3:20:25 Widget Closed: StatusBubble
+3:24:10 Tab1 StartNav174 #renderer-user #link
+3:24:10 Tab1 FinishNav174
+3:24:17 Tab1 StartNav175 #renderer-user #link
+3:24:17 Tab1 FinishNav175
+3:24:28 Widget Closed: StatusBubble
+3:53:26 Widget Closed: StatusBubble
+4:27:16 Widget Closed: StatusBubble
+4:42:56 Widget Closed: StatusBubble
+5:06:34 Tab1 StartNav176 #renderer-script #auto_subframe
+5:06:34 Tab1 FinishNav176
+5:06:34 Tab1 PageLoad
+5:39:08 Widget Closed: StatusBubble
+5:39:14 Tab1 BeforeUnload proceed:true
+5:39:14 Microsoft.Shutdown.OnWindowClosing
+5:39:14 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+5:39:14 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+5:39:14 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+5:39:14 Browser1 Close Tab1 at 0
+5:39:14 Tab1 WebContentsDestroyed
+5:39:14 Microsoft.Shutdown.OnWindowClosing
+5:39:14 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+5:39:14 Widget Closed: BrowserFrame
+5:39:14 Microsoft.Last_Browser_Removed
+5:39:15 Media.Hidden
+5:39:15 Microsoft.Shutdown.ShutdownIfNoBrowsers
+5:39:15 Microsoft.Shutdown.SetTryingToQuit_Quitting
+5:39:15 Microsoft.Shutdown.NotifyAppTerminating
+5:39:15 Microsoft.Shutdown.OnAppExiting
+5:39:15 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
+5:39:15 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
+5:39:15 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
+5:39:15 Shutdown
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:07 Tab1 FinishNav2
+0:00:09 Tab1 StartNav3 #renderer-script #auto_subframe
+0:00:09 Tab1 FinishNav3
+0:00:09 Tab1 PageLoad
+0:00:11 Tab1 StartNav4 #renderer-script #auto_subframe
+0:00:11 Tab1 FinishNav4
+0:00:11 Tab1 PageLoad
+0:00:12 Tab1 PageLoad
+0:00:12 Tab1 StartNav5 #renderer-script #auto_subframe
+0:00:13 Tab1 FinishNav5
+0:00:14 Tab1 PageLoad
+0:00:24 Widget Closed: StatusBubble
+0:04:05 Widget Closed: StatusBubble
+0:05:33 Tab1 RenderProcessGone
+0:05:41 Microsoft.Shutdown.OnWindowClosing

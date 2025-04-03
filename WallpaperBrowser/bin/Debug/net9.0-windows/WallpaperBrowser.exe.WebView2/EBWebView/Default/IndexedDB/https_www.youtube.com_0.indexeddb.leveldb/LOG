@@ -1,0 +1,12 @@
+2025/04/03-20:38:50.647 26bc Reusing MANIFEST E:\ds\git проекты\Desktop-Web\WallpaperBrowser\bin\Debug\net9.0-windows\WallpaperBrowser.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/03-20:38:50.648 26bc Recovering log #45
+2025/04/03-20:38:51.761 26bc Reusing old log E:\ds\git проекты\Desktop-Web\WallpaperBrowser\bin\Debug\net9.0-windows\WallpaperBrowser.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000045.log 
+2025/04/03-20:38:52.572 43ac Level-0 table #50: started
+2025/04/03-20:38:52.796 43ac Level-0 table #50: 1497485 bytes OK
+2025/04/03-20:38:53.004 43ac Delete type=0 #45
+2025/04/03-20:38:54.798 3224 Compacting 1@1 + 1@2 files
+2025/04/03-20:38:55.155 3224 Generated table #51@1: 511 keys, 109144 bytes
+2025/04/03-20:38:55.156 3224 Compacted 1@1 + 1@2 files => 109144 bytes
+2025/04/03-20:38:55.322 3224 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/03-20:38:55.369 3224 Delete type=2 #47
+2025/04/03-20:38:55.370 3224 Delete type=2 #50
